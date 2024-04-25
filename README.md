@@ -1,5 +1,5 @@
 # BigData..
-This project involves introduction to BigData, it's types, the 6V's, the phases and the challenges in in BigData analysis. 
+This project involves introduction to BigData, it's types, the 6V's, the phases and the challenges in in BigData analysis. I have also written an article on usage of Big Data in Healthcare industry which is mentioned in this repository. 
 
 # What is BigData
 Large and complicated datasets that are difficult to manage, process, or analyze using conventional data processing tools and techniques are referred to as "Big Data."
